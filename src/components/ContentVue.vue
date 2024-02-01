@@ -8,7 +8,7 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
@@ -16,7 +16,7 @@ export default defineComponent({
         {
           name: 'Big Momo',
           description: 'Skład: łosoś,papryka,awokado, ogorek, ryż, nori',
-          image: '/public/sait foto 1.png',
+          image: '/sait foto 1.png',
           price: 35, // цена
           weight: 300, // вес в граммах
           quantity: 8 // количество
@@ -24,7 +24,15 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
+          price: 100, // цена
+          weight: 500, // вес в граммах
+          quantity: 8 // количество
+        },
+        {
+          name: 'Product name',
+          description: 'Product description goes here. This is a simple description of the product.',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
@@ -48,7 +56,7 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
@@ -56,15 +64,7 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
-          price: 100, // цена
-          weight: 500, // вес в граммах
-          quantity: 8 // количество
-        },
-        {
-          name: 'Product name',
-          description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
