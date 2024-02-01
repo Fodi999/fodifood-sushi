@@ -32,7 +32,7 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
@@ -40,7 +40,7 @@ export default defineComponent({
         {
           name: 'Product name',
           description: 'Product description goes here. This is a simple description of the product.',
-          image: '/public/Banzai.jpg',
+          image: '/Banzai.jpg',
           price: 100, // цена
           weight: 500, // вес в граммах
           quantity: 8 // количество
